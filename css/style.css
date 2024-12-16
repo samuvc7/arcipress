@@ -1,6 +1,16 @@
-/* Fuente a utilizar en el proyecto: 
-    Para utilizarla hay que añadir la siguiente propiedad CSS -> font-family: 'Peace Sans';
-*/
+/* Variables CSS 
+    Uso de los colores:
+        var(--nombre); */
+:root {
+    --color-lila-claro: #d5ccff;
+    --color-verde-claro: #87c770;
+    --color-blanco: #ffffff;
+    --color-negro: #121116;
+}
+
+/* Fuente a utilizar en el proyecto
+    Para utilizarla hay que añadir la siguiente propiedad CSS:
+        font-family: 'Peace Sans'; */
 @font-face {
     font-family: 'Peace Sans';
     src: url(../fonts/PeaceSansWebfont.ttf);
