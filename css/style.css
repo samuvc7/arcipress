@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Peace Sans';
+    src: url(../fonts/PeaceSansWebfont.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
