@@ -1,12 +1,17 @@
+/* Fuente a utilizar en el proyecto: 
+    Para utilizarla hay que añadir la siguiente propiedad CSS -> font-family: 'Peace Sans';
+*/
 @font-face {
     font-family: 'Peace Sans';
     src: url(../fonts/PeaceSansWebfont.ttf);
 }
 
+/* Estilos generales */
 * {
     box-sizing: border-box;
 }
 
+/* Estilos para todo el cuerpo */
 body {
     margin: 0;
     padding: 0;
